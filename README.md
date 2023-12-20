@@ -6,6 +6,8 @@
 
   Link to a video showing the application functioning: https://drive.google.com/file/d/11N6W7EnBUMySH0Vsx7sSMNdPjQRCpzg_/view
 
+  ![Alt text](example_video.webm)
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
