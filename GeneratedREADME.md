@@ -1,9 +1,9 @@
 
-  # Example title
+  # Example README.md Title
 
   ## Description
 
-  Example description
+  Example description, what, why, how
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,19 +16,19 @@
   
   ## Installation
 
-  Example install instructions
+  Example install instructions: install node, inquirer npm packages
 
   ## Usage
 
-  Usage information
+  Example usage information, efficiency
 
   ## Contributions
 
-  Contribution Guidelines
+  Example Contribution Guidelines, only repo owner
 
   ## Tests
 
-  Test Instructions
+  Example test instructions, run node index
 
   ## License
 
