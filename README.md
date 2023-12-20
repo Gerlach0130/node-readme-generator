@@ -4,6 +4,8 @@
 
   This is an application using Node that is ran in the terminal, and will generate a README.md file based on user input from inquirer prompts.
 
+  Link to a video showing the application functioning: https://drive.google.com/file/d/11N6W7EnBUMySH0Vsx7sSMNdPjQRCpzg_/view
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
