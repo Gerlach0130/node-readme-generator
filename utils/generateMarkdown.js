@@ -50,7 +50,7 @@ function generateMarkdown(data) {
 
   ## Contact
 
-  Any questions or comments can be directed to: ${data.email}
+  Any questions or comments can be directed to: ${data.email} or www.github.com/${data.username}
 
 `;
 }

@@ -3,7 +3,7 @@
 
   ## Description
 
-  Example Description
+  Example description
 
   ## Table of Contents
   * [Installation](#installation)
@@ -20,15 +20,15 @@
 
   ## Usage
 
-  Example usage information
+  Usage information
 
   ## Contributions
 
-  Example contribution guidelines
+  Contribution Guidelines
 
   ## Tests
 
-  Example test instructions
+  Test Instructions
 
   ## License
 
@@ -36,5 +36,5 @@
 
   ## Contact
 
-  Any questions or comments can be directed to: mgerlach0130@gmail.com
+  Any questions or comments can be directed to: mgerlach0130@gmail.com or www.github.com/Gerlach0130
 
