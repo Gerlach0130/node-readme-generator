@@ -1,39 +1,40 @@
 
-  # Node README.md generator
+  # Example title
 
   ## Description
 
-  Description
+  Example Description
 
   ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributions](#contributions)
-    * [Tests](#tests)
-    * [License](#license)
-    * [Contact](#contact)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Contact](#contact)
 
+  
   ## Installation
 
-  Instructions
+  Example install instructions
 
   ## Usage
 
-  Usage
+  Example usage information
 
   ## Contributions
 
-  Guidelines
+  Example contribution guidelines
 
   ## Tests
 
-  Instructions
+  Example test instructions
 
   ## License
 
-  Apache License 2.0
+  MIT License
 
   ## Contact
 
-  Any questions or comments can be directed to: mgerlach
+  Any questions or comments can be directed to: mgerlach0130@gmail.com
 
